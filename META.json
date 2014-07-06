@@ -54,7 +54,7 @@
    "provides" : {
       "App::ChangeShebang" : {
          "file" : "lib/App/ChangeShebang.pm",
-         "version" : "0.02"
+         "version" : "0.03"
       }
    },
    "release_status" : "stable",
@@ -68,6 +68,6 @@
          "web" : "https://github.com/shoichikaji/change-shebang"
       }
    },
-   "version" : "0.02",
+   "version" : "0.03",
    "x_authority" : "cpan:SKAJI"
 }
